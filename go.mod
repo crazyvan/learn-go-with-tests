@@ -1,3 +1,3 @@
-module learn_go_with_tests
+module github.com/crazyvan/learn-go-with-tests
 
 go 1.20
